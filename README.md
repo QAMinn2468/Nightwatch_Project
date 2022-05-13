@@ -1,5 +1,5 @@
 # Desi
-A place to practice writing tests with Selenium
+A place to practice writing tests with Nightwatch.js
 
 # Set up your environment:
 
