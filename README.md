@@ -1,4 +1,4 @@
-# Desi
+# Nightwatch Project
 A place to practice writing tests with Nightwatch.js
 
 # Set up your environment:
