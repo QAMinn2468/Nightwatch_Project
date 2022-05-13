@@ -1,0 +1,16 @@
+{
+  "name": "designory-nightwatch-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^101.0.0",
+    "nightwatch": "^2.1.5"
+  }
+}
