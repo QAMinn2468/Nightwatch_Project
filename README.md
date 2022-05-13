@@ -27,6 +27,9 @@ Install Selenium Server
 
 Clone Repo and set up your working branch
 * https://github.com/QAMinn2468/Desi
+
+To Run
+* type **npm test** on the git bash command prompt
   
 ----------------------------------------------------------------------------------------------------
 
